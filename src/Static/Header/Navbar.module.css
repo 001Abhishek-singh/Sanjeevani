@@ -1,0 +1,46 @@
+.list_styling{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.list_effect_styling:hover{
+    background: darkkhaki;
+    padding: 10px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    transform: scale(1.1, 1.1);
+    cursor: pointer;
+}
+.Inner_list_styling{
+    list-style: none;
+    font-weight: 500;
+    background: mediumpurple;
+    color: black;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 4px 2px 2px 2px;
+    border: 1px solid springgreen;
+}
+.inner_list_style:hover{
+    background-color: white;
+    cursor: pointer;
+    border: 2px solid;
+    border-radius: 6px;
+}
+.Close_Inner_list_styling{
+    display: none;
+}
+.login_style{
+    background: #4444;
+    padding: 10px;
+    border-radius: 6px;
+    transform: scale(1.1);
+    cursor: pointer;
+    color: indianred;
+    margin-right: 14px;
+    border: 2px solid;
+}

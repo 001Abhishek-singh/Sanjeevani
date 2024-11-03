@@ -1,0 +1,34 @@
+.custom_card_style{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    grid-gap: 14px;
+    padding: 20px;
+}
+.CardCustomStyle{
+    padding: 14px;
+    border: 6px solid #8a2be233;
+    border-radius: 8px;
+    background: #faebd77a;
+}
+.icon_size{
+    font-size: 38px;
+}
+.title_size{
+    font-size: 22px;
+    font-weight: 700;
+    color: darkmagenta;
+    text-align: left;
+}
+.title_and_icon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.description_size{
+    color: gray;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: justify;
+}

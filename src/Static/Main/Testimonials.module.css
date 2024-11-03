@@ -1,0 +1,32 @@
+.TestimonialsCustomStyle{
+    padding: 14px;
+    border: 6px solid #8a2be233;
+    border-radius: 8px;
+    background: #faebd77a;
+}
+.testimonials_title_and_icon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.testimonials_icon_size{
+    width: 82px;
+    height: 82px;
+    margin-bottom: 16px;
+}
+.icon_size_testimonials{
+    width: 80px;
+    height: 80px;
+}
+.testimonials_title_size{
+    font-size: 22px;
+    font-weight: 700;
+    color: darkmagenta;
+    text-align: left;
+}
+.testimonials_description_size{
+    color: gray;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: justify;
+}

@@ -1,0 +1,20 @@
+.custom_css_row{
+    background-color: cadetblue;
+    padding: 30px;
+    margin: 14px;
+}
+.custom_counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.value_style{
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+}
+.value_style_2{
+    color: white;
+    font-size: 24px;
+}

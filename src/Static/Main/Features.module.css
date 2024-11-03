@@ -1,0 +1,40 @@
+.heading_style{
+    font-size: 44px;
+    font-weight: 700;
+    color: darkblue;
+    margin-top: 6px;
+}
+.Separator{
+    background: #e12454;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-left: 50%;
+    text-align: center;
+    position: relative;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.Separator::before{
+    content: '';
+    position: absolute;
+    right: 50px;
+    padding: 4px;
+    width: 180px;
+    margin-top: 6px;
+    background: #e12454;
+}
+.Separator::after{
+    content: '';
+    position: absolute;
+    left: 50px;
+    padding: 4px;
+    width: 180px;
+    margin-top: 6px;
+    background: #e12454;
+}
+.text_para{
+    color: gray;
+    font-size: 17px;
+    font-weight: 700;
+}

@@ -1,0 +1,38 @@
+.custom_list_style{
+    list-style: none;
+    font-size: 17px;
+    font-weight: 600;
+    color: #444444;
+    cursor: pointer;
+}
+.custom_title_style{
+    font-size: 24px;
+    font-weight: 600;
+    color: darkorchid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    font-family: auto;
+}
+.about_style{
+    text-align: justify;
+    color: gray;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 4px;
+}
+.custom_contact_style{
+    font-size: 17px;
+    font-weight: 600;
+    color: #444444;
+}
+.social_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    font-size: 32px;
+    margin-bottom: 2px;
+    cursor: pointer;
+}

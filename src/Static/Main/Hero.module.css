@@ -1,0 +1,32 @@
+.Hero_background{
+    background: url('../../assets/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.Hero_separator{
+    height: 4px;
+    width: 180px;
+    margin-top: 20px;
+    border-radius: 0px;
+    background-color: #e12454;
+}
+.Hero_content_container{
+    text-align: left;
+    margin: 20px 12px 4px 50px;
+    padding: 35px 0px 14px 16px;
+}
+.Hero_title{
+    color: lightblue;
+    text-transform: uppercase;
+    margin-top: 12px;
+    font-size: 18px;
+}
+.Hero_main_title{
+    font-size: 58px;
+    color: silver;
+}
+.Hero_para{
+    color: lightblue;
+    font-size: 17px;
+}

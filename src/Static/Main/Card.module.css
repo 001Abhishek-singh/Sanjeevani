@@ -1,0 +1,46 @@
+.card_container{
+    padding: 20px;
+    border: 1px solid gainsboro;
+    text-align: justify;
+    border-radius: 30px;
+    max-width: 320px;
+    position: relative;
+    bottom: 86px;
+    background-color: antiquewhite;
+}
+.icon_style{
+    width: 82px;
+    height: 82px;
+    /* border: 2px solid black; */
+    margin-bottom: 16px;
+}
+.icon_dimensions{
+    width: 80px;
+    height: 80px;
+}
+.title_style{
+    margin: 0px;
+    font-size: 20px;
+    color: gray;
+}
+.sub_title_style{
+    color: darkblue;
+    text-align: left;
+    margin: -3px;
+}
+.info{
+    margin: 5px 0;
+    color: gray;
+    text-align: justify;
+}
+.time_table_container{
+    margin-top: 18px;
+}
+.info_date{
+    color: gray;
+    text-align: justify;
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
