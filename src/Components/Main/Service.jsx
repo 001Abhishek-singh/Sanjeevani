@@ -22,7 +22,7 @@ const Service = () => {
                 <div>
                     <h2>Personal care <br /> & healthy living</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, quas nesciunt? Iste quas alias, quam cupiditate incidunt illo doloremque hic.</p>
-                    <Button />
+                    <Button>Services</Button>
                 </div>
             </div>
         </div>

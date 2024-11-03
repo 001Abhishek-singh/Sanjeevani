@@ -13,7 +13,7 @@ const Card = () => {
                 <p className={`${style.title_style}`}>24 Hours Service</p>
                 <h2 className={`${style.sub_title_style}`}>Online Appoinment</h2>
                 <p className={`${style.info}`}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore officia sunt ea et doloremque.</p>
-                <Button/>
+                <Button>Appoinment</Button>
             </div>
             {/* card 2 */}
             <div className={`${style.card_container} col-md-4`}>

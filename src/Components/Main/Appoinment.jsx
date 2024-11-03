@@ -55,7 +55,7 @@ const Appoinment = () => {
                         </form>
                     </div>
                     <div className={`${style.button_Center_Container}`}>
-                        <Button />
+                        <Button>Submit</Button>
                     </div>
                 </div>
             </div>

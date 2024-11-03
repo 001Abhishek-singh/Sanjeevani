@@ -1,8 +1,8 @@
 import style from '../../Static/Main/Button.module.css'
-const Button = () => {
+const Button = (props) => {
     return <>
     <div className={`${style.Button_container}`}>
-        <button> Buttons </button>
+        <button> {props.children} </button>
     </div>
     </>
 }

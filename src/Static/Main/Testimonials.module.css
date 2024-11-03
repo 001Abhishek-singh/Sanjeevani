@@ -1,8 +1,17 @@
+.Carousel_Custom{
+    background-color: cadetblue;
+}
+.Carousel_Item_Custom_Style{
+    position: relative;
+    left: 34%;
+    padding-top: 2%;
+    padding-bottom: 10%;
+}
 .TestimonialsCustomStyle{
     padding: 14px;
     border: 6px solid #8a2be233;
     border-radius: 8px;
-    background: #faebd77a;
+    background: antiquewhite;
 }
 .testimonials_title_and_icon{
     display: flex;
@@ -29,4 +38,7 @@
     font-size: 17px;
     font-weight: 600;
     text-align: justify;
+}
+.Caption_custom{
+    position: none !important;
 }

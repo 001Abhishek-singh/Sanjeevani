@@ -12,7 +12,7 @@ const Hero = () => {
                     <h1 className={`${style.Hero_main_title}`}>Your Most Trusted <br /> Health Partner</h1>
                     <p className={`${style.Hero_para}`}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae odio ut <br /> ipsum deserunt animi voluptatem illum ex omnis natus iusto.</p>
                 </div>
-                <Button />
+                <Button>Read More</Button>
             </div>
 
             <div className="card_container">
